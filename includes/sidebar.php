@@ -25,10 +25,10 @@ foreach($results as $result)
               
                 <ul class="sidebar-menu collapsible collapsible-accordion" data-collapsible="accordion">
                   
-  <li class="no-padding"><a class="waves-effect waves-grey" href="myprofile.php"><i class="material-icons">account_box</i>My Profiles</a></li>
-  <li class="no-padding"><a class="waves-effect waves-grey" href="emp-changepassword.php"><i class="material-icons">settings_input_svideo</i>Chnage Password</a></li>
+  <li class="no-padding"><a class="waves-effect waves-grey" href="myprofile.php"><i class="material-icons"></i>My Profiles</a></li>
+  <li class="no-padding"><a class="waves-effect waves-grey" href="emp-changepassword.php"><i class="material-icons"></i>Change Password</a></li>
                     <li class="no-padding">
-                        <a class="collapsible-header waves-effect waves-grey"><i class="material-icons">apps</i>Leaves<i class="nav-drop-icon material-icons">keyboard_arrow_right</i></a>
+                        <a class="collapsible-header waves-effect waves-grey"><i class="material-icons">apps</i>Leaves<i class="nav-drop-icon material-icons"></i></a>
                         <div class="collapsible-body">
                             <ul>
                                 <li><a href="apply-leave.php">Apply Leave</a></li>
@@ -40,7 +40,7 @@ foreach($results as $result)
          
                
                   <li class="no-padding">
-                                <a class="waves-effect waves-grey" href="logout.php"><i class="material-icons">exit_to_app</i>Sign Out</a>
+                                <a class="waves-effect waves-grey" href="logout.php"><i class="material-icons"></i>Sign Out</a>
                             </li>  
                  
                    
