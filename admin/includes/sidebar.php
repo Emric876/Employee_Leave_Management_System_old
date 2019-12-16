@@ -28,7 +28,7 @@
                     </li>
                     <li class="no-padding">
                         <a class="collapsible-header waves-effect waves-grey"><i class="material-icons">
-                            code</i>Leave Type<i class="nav-drop-icon material-icons">
+                            </i>Leave Type<i class="nav-drop-icon material-icons">
                                 </i></a>
                         <div class="collapsible-body">
                             <ul>
@@ -39,7 +39,7 @@
                     </li>
                     <li class="no-padding">
                         <a class="collapsible-header waves-effect waves-grey"><i class="material-icons">
-                            account_box</i>Employees<i class="nav-drop-icon material-icons">
+                            </i>Employees<i class="nav-drop-icon material-icons">
                                 </i></a>
                         <div class="collapsible-body">
                             <ul>
