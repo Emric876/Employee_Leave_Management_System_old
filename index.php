@@ -166,7 +166,7 @@ else{
                                            <form class="col s12" name="signin" method="post">
                                                <div class="input-field col s12">
                                                    <input id="username" type="text" name="username" class="validate" autocomplete="off" required >
-                                                   <label for="email">Email Id</label>
+                                                   <label for="email">Email Id or User Name</label>
                                                </div>
                                                <div class="input-field col s12">
                                                    <input id="password" type="password" class="validate" name="password" autocomplete="off" required>
